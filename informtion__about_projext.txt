@@ -1,0 +1,2 @@
+passwprd=12345
+username=vk
